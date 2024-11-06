@@ -18,7 +18,8 @@ Voici quelques-uns de mes projets sur GitHub, classés par spécialité :
 
 | **Backend** | **Fullstack** | **Frontend** |
 |-------------|---------------|--------------|
-| [**User Management API**](https://github.com/tonusername/user-management-api) | [**Carby**](https://github.com/tonusername/carby)  | [**Autres projets frontend**](https://github.com/tonusername)  |
+| [**User Management API**](https://github.com/GaelVbn/user-management-api) | [**Carby**](https://github.com/tonusername/carby)
+[**MediumLike-(backend)**](https://github.com/GaelVbn/Backend-post)[**MediumLike-(frontend)**](https://github.com/GaelVbn/Frontend-post)| [**Autres projets frontend**](https://github.com/tonusername)  |
 
 ---
 
