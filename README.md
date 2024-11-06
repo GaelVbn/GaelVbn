@@ -18,7 +18,7 @@ Voici quelques-uns de mes projets sur GitHub, classés par spécialité :
 
 | **Backend** | **Fullstack** | **Frontend** |
 |-------------|---------------|--------------|
-| [**User Management API**](https://github.com/tonusername/user-management-api) : API de gestion d’utilisateurs mettant en avant mes compétences en backend avec Node.js et Express. | [**Carby**](https://github.com/tonusername/carby) : Application complète intégrant backend et frontend, inspirée de X (anciennement Twitter). Utilise React et Node pour une expérience fluide. | [**Autres projets frontend**](https://github.com/tonusername) : Découvrez mes expérimentations et projets centrés sur le frontend, utilisant React, Redux, et Tailwind. |
+| [**User Management API**](https://github.com/tonusername/user-management-api) | [**Carby**](https://github.com/tonusername/carby)  | [**Autres projets frontend**](https://github.com/tonusername)  |
 
 ---
 
