@@ -14,11 +14,16 @@
 
 ## 🌟 Projets GitHub Notables
 
-Voici quelques-uns de mes projets sur GitHub :
+Voici quelques-uns de mes projets sur GitHub, classés par spécialité :
 
-- [**User Management API**](https://github.com/GaelVbn/user-management-api.git) : API de gestion d’utilisateurs, un exemple de mes compétences en backend.
-- [**Carby**](https://github.com/tonusername/carby) : Une application axée sur **X** (anciennement Twitter), mêlant React et Node pour une expérience complète.
-- [**Autres projets**](https://github.com/tonusername) : Retrouvez plus de mes projets et expérimentations sur mon GitHub !
+| **Backend** | **Fullstack** | **Frontend** |
+|-------------|---------------|--------------|
+| [**User Management API**](https://github.com/tonusername/user-management-api) : API de gestion d’utilisateurs mettant en avant mes compétences en backend avec Node.js et Express. | [**Carby**](https://github.com/tonusername/carby) : Application complète intégrant backend et frontend, inspirée de X (anciennement Twitter). Utilise React et Node pour une expérience fluide. | [**Autres projets frontend**](https://github.com/tonusername) : Découvrez mes expérimentations et projets centrés sur le frontend, utilisant React, Redux, et Tailwind. |
+
+---
+
+Retrouvez encore plus de projets et de contributions sur [mon profil GitHub](https://github.com/tonusername) !
+
 
 ---
 
