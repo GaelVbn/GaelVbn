@@ -21,8 +21,6 @@ Voici quelques-uns de mes projets sur GitHub, classés par spécialité :
 | [**User Management API**](https://github.com/GaelVbn/user-management-api) | [**Carby**](https://github.com/GaelVbn/Carby) <br> [**MediumLike : (Backend)**](https://github.com/GaelVbn/Backend-post)  [**(Frontend)**](https://github.com/GaelVbn/Frontend-post)  | [**Autres projets frontend**](https://github.com/GaelVbn?tab=repositories&q=frontend&type=&language=&sort=name) |
 
 
-Retrouvez encore plus de projets et de contributions sur [mon profil GitHub](https://github.com/GaelVbn) !
-
 ---
 
 ## 🎓 Formation
