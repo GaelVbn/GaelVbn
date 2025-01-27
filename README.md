@@ -1,4 +1,4 @@
-## ⋯• Gaël Vanbeveren •⋯
+## ⋯ Gaël Vanbeveren ⋯
 
 Développeur curieux, toujours en quête de nouvelles technologies. Diplômé du bootcamp web full-stack de **LA Capsule**, je suis spécialisé dans la **stack MERN** (MongoDB, Express, React, Node).
 
